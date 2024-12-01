@@ -13,4 +13,5 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-- Add a slideshow in the menu section of some of the food and drink items.
+* Add a slideshow in the menu section of some of the food and drink items.
+* Experiment with different font colors for footer.
